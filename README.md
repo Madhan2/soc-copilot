@@ -22,3 +22,6 @@ Security telemetry requires strict accuracy. Unchecked LLM summarization introdu
    python3 -m venv venv
    source venv/bin/activate
    pip install pydantic requests
+
+> [!NOTE]
+> This project is a work in progress, though the main functionality has been added, more additional features are coming soon!
